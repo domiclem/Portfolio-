@@ -1,0 +1,14 @@
+{
+  "name": "dominion-personal-technology-portfolio",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Responsive personal portfolio with a dependency-free Node.js contact form backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
